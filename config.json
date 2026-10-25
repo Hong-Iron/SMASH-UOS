@@ -20,5 +20,56 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "100주년 기념관": {
+      "style": "brick",
+      "wall": "#b85c3c",
+      "glass": "#3a4650",
+      "frame": "#d8d6d0"
+    },
+    "중앙도서관": {
+      "style": "tan",
+      "wall": "#dcbc9c",
+      "glass": "#4b5a63",
+      "frame": "#cfc7bc"
+    },
+    "미래관": {
+      "style": "stone",
+      "wall": "#a9aaa4",
+      "glass": "#3d5c5f",
+      "frame": "#8b8e89"
+    },
+    "학생회관": {
+      "style": "brick",
+      "wall": "#93473a",
+      "glass": "#3c5a55",
+      "frame": "#6d6f6c"
+    },
+    "법학관": {
+      "style": "concrete",
+      "wall": "#5c6266",
+      "glass": "#3e4c56",
+      "frame": "#8a8f91"
+    },
+    "21세기관": {
+      "style": "stone",
+      "wall": "#e4d9c6",
+      "glass": "#2f3e47",
+      "frame": "#4f7fa8"
+    },
+    "대강당": {
+      "style": "brick",
+      "wall": "#9a4c3c",
+      "glass": "#4a5a62",
+      "frame": "#e2e0da"
+    },
+    "자연과학관": {
+      "style": "brick",
+      "wall": "#8a4238",
+      "glass": "#3c8794",
+      "frame": "#2f3a3d"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
