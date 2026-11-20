@@ -1,0 +1,34 @@
+{
+ "region": "서울 동대문구 전농동",
+ "nameEn": "University of Seoul",
+ "added": "2026-10-16",
+ "rank": 21,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SHU",
+   "campus": "삼육보건대학교",
+   "km": 0.8
+  },
+  {
+   "code": "HUFS",
+   "campus": "한국외국어대학교 서울캠퍼스",
+   "km": 1.6
+  },
+  {
+   "code": "KHU",
+   "campus": "경희대학교 서울캠퍼스",
+   "km": 1.7
+  },
+  {
+   "code": "KARTS",
+   "campus": "한국예술종합학교 석관동캠퍼스",
+   "km": 2.4
+  },
+  {
+   "code": "KU",
+   "campus": "고려대학교 서울캠퍼스",
+   "km": 2.7
+  }
+ ]
+}
